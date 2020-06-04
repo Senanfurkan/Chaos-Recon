@@ -14,7 +14,7 @@ DigitalOcean
 Usage:
 `bash chaos.sh`
 
-You can use cronjob to use it automatically everyday. 
+You can use cronjob to run it automatically everyday. 
 
 After the process completed, 
 
