@@ -1,6 +1,6 @@
 # Chaos-Recon
 
-You need a "CompanyName.txt" consist of company names as here; `https://github.com/projectdiscovery/chaos-public-program-list/blob/master/scope.json`
+You need a "CompanyName.txt" consist of company names as here; `https://github.com/projectdiscovery/chaos-public-program-list/blob/master/bugbounty-list.json` but you need to save the names all lowercase and all space character should be replaces with underscore(_)
 
 
 Inside of CompanyName.txt
