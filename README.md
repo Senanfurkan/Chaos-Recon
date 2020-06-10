@@ -5,10 +5,10 @@ You need a "CompanyName.txt" consist of company names as here; `https://github.c
 
 Inside of CompanyName.txt
 ```
-VerizonMedia
-Vimeo
-Uber
-DigitalOcean
+verizon_media
+vimeo
+uber
+digitalocean
 ```
 
 Usage:
