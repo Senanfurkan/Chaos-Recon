@@ -5,7 +5,7 @@ input="companyName.txt"
 while IFS= read -r line
 
 do
-  curl https://chaosproject.projectdiscovery.io/"$line".zip -o "$line"/"$line".zip --create-dirs
+  curl -s https://chaos-data.projectdiscovery.io/"$line".zip -o "$line"/"$line".zip --create-dirs
 
 find "$line"/ -iname "*.txt" | egrep '.*'
 
